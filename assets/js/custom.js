@@ -8,5 +8,12 @@
 		jQuery("a[data-rel^='prettyPhoto']").prettyPhoto({animationSpeed:'slow',theme:'light_square',slideshow:false,overlay_gallery: false,social_tools:false,deeplinking:false});
 	}); 
 
+// Sharing
+  $("a[data-window-share]").on("click tap", function(e){
+    e.preventDefault();
+    link = $(e.currentTarget).attr("href");
+    window.open(link, "_blank", "toolbar=yes, scrollbars=yes, resizable=yes, width=700, height=400");
+  });
+
 		
 })(jQuery);
