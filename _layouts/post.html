@@ -16,13 +16,12 @@ layout: default
             {{ content }}
 
             <div class="spacing"></div>
-            <!-- <h6>SHARE:</h6>
+            <h6>COMPARTIR:</h6>
             <p class="share">
-                <a href="#"><i class="fa fa-twitter"></i></a>
-                <a href="#"><i class="fa fa-facebook"></i></a>
-                <a href="#"><i class="fa fa-tumblr"></i></a>
-                <a href="#"><i class="fa fa-google-plus"></i></a>		 		
-            </p> -->
+                <a data-window-share href="http://twitter.com/share?text={{ page.title }}"><i class="fa fa-twitter"></i></a>
+                <a data-window-share href="http://www.facebook.com/sharer.php?u={{ page.url }}&t={{ page.title }}"><i class="fa fa-facebook"></i></a>
+                <a data-window-share href="https://plus.google.com/share?url={{ page.url }}"><i class="fa fa-google-plus"></i></a>	
+            </p>
         </div><! --/col-lg-8 -->
         
         {% include sidebar.html %}
