@@ -12,10 +12,12 @@ img: porto_pequena.jpg
 thumb: laindustriosa.jpg
 ---
 
-Fai case un ano que fixemos a nosa primeira hackathon, aquela foi todo un éxito
-en consecuencia ao esforzo que lle dedicamos. Unha hackahton de amigos, con
-mais de 30 persoas que fixo que tiveramos ganas de facer unha segunda. Volveu
-Jesús de Madrid, e así que volveu xa nos puxemos a traballar duro na seguinte.
+[Fai case un ano que fixemos a nosa primeira
+hackathon](http://blog.jesussayar.com/2015/02/04/creating-hackvg/), aquela foi
+todo un éxito en consecuencia ao esforzo que lle dedicamos. Unha hackahton de
+amigos, con mais de 30 persoas que fixo que tiveramos ganas de facer unha
+segunda. Volveu Jesús de Madrid, e así que volveu xa nos puxemos a traballar
+duro na seguinte.
 
 <!--more-->
 
