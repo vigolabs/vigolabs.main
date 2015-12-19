@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "O nacemento de Vigolabgs"
+title: "O nacemento de Vigolabs"
 date: 2014-12-20 16:54:46
 author: Jesús Sayar & Eloy Coto
 categories:
