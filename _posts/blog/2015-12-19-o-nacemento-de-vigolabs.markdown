@@ -8,7 +8,7 @@ categories:
 - events
 - engineering
 - Internet Of Things
-img: puerto.jpg
+img: porto_pequena.jpg
 thumb: laindustriosa.jpg
 ---
 
@@ -64,7 +64,7 @@ mariñeiros, sistema de aforro enerxético, sistemas de clasificación de peixe,
 etc..
 
 {: .text-center}
-![wind farm](/assets/img/wind_farm.jpg)
+![wind farm](/assets/img/blog/percebeidron.jpg)
 
 Nace este grupo con unha tremenda ilusión. Fai poucos días fixemos nunha mesa
 redonda, estaban nela dende representantes de estaleiros, empresas de grúas
