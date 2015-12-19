@@ -2,6 +2,7 @@
 layout: post
 title: "O nacemento de Vigolabs"
 date: 2014-12-20 16:54:46
+description: O resumo do nacemento de Vigolabs
 author: Jesús Sayar & Eloy Coto
 categories:
 - blog

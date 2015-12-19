@@ -8,13 +8,24 @@
 
     <title>{{ site.title }}{% if page.title %} - {{ page.title }}{% endif %}</title>
 
+    {% if page.img %}
+      <meta property=“og:image” content="{{ "/assets/img/blog/" | prepend: site.baseurl }}{{ page.img }}" />
+      <meta name="twitter:card" content="summary" />
+      <meta name="twitter:site" content="@vigolabs">
+      <meta name="twitter:creator" content="@vigolabs">
+      <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+      <meta name="twitter:title" content="{{page.title}}" />
+      <meta name="twitter:description" content="{{page.description}}" />
+      <meta name="twitter:image" content="{{ "/assets/img/blog/" | prepend: site.baseurl }}{{ page.img }}"/>
+    {% endif %}
+
     <!-- Bootstrap core CSS -->
     <link href="{{ "/assets/css/bootstrap.css" | prepend: site.baseurl }}" rel="stylesheet">
 
     <!-- Custom styles for this template -->
     <link href="{{ "/assets/css/style.css" | prepend: site.baseurl }}" rel="stylesheet">
     <link href="{{ "/assets/css/font-awesome.min.css" | prepend: site.baseurl }}" rel="stylesheet">
-    
+
     <!-- Custom CSS -->
     <!--<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">-->
 
