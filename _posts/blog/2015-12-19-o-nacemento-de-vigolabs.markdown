@@ -31,12 +31,12 @@ marcara un futuro.
 
 Falando no pasado, era imposible non fixarse no seculo XIX, vemos como Vigo
 empeza a nacer como cidade, vemos como hai unha pequena revolución industrial e
-esta esta marcada por un home ["Sanjurjo
+esta marcada por un home ["Sanjurjo
 Badía"](http://www.vigoe.es/vigo/mas-vigo/item/4950-antonio-sanjurjo-badia-el-visionario-autodidacta).
 Lendo libros de esa época, descubrimos como gracias a industria inicial o
-sector pesqueiro modernizouse e volvía a crecer, volvéndose a facer rendible e
-o inicio da industria conserveira, dende aquela xa podemos contar os éxitos de
-toda a nosa industria, estaleiros, etc..
+sector pesqueiro modernizouse e volvía a crecer, volvéndose a facer rendible o
+que conlevou o inicio da industria conserveira, dende aquela xa podemos contar
+os éxitos de toda a nosa industria, estaleiros, etc..
 
 {: .text-center}
 ![La industriosa](/assets/img/blog/laindustriosa.jpg)
@@ -51,8 +51,8 @@ a nivel mundial marítimo. Foi sinxelo relacionar o esprito de Sanjurjo Badía e
 facer un evento para intentar darlle valor as solucións IoT dentro dun sector
 clave para o noso pobo. Temos a crenza que é unha saída natural para o sector
 TI de Galicia a apertura ao mar, un investimento importante no que sabemos
-facer, nun sector que temos casos prácticos a curta distancia da nosa casa,onde
-emprender é moito mais sinxelo, ademais de contar cunhas vantaxes dende
+facer, nun sector que temos casos prácticos a curta distancia da nosa casa,
+onde emprender é moito mais sinxelo, ademais de contar cunhas vantaxes dende
 xeográficas, ata a nivel empresarial (Feira conxemar) e o recoñecemento
 mundial.
 
