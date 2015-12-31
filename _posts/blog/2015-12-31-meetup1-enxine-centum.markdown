@@ -26,7 +26,7 @@ A primeira meetup, será o Mércores 13 de Xaneiro, na cal estarán os seguintes
 poñentes:
 <!--more-->
 
-[Pablo Rodiz - Enxine](https://www.linkedin.com/in/pablorodiz):
+### [Pablo Rodiz - Enxine](https://www.linkedin.com/in/pablorodiz):
 
 
 Pablo, director de [Enxine](http://enxine.com/), presentaranos o seu último
@@ -51,7 +51,7 @@ equipo ten unha gran experiencia na electrónica de consumo, campo non que lle
 deu unha total sensibilidade cara o consumidor final.
 
 
-[Isacc Ballesteros - Centum RT](https://www.linkedin.com/in/isaacballesteros)
+### [Isacc Ballesteros - Centum RT](https://www.linkedin.com/in/isaacballesteros)
 
 Isacc presentará el produto (LifeSeeker)[http://www.iqube.es/en/], un sistema
 de apoio en situación de emerxencia, concretamente en misións de procura e
