@@ -51,25 +51,29 @@ equipo ten unha gran experiencia na electrónica de consumo, campo non que lle
 deu unha total sensibilidade cara o consumidor final.
 
 
-### [Isacc Ballesteros - Centum RT](https://www.linkedin.com/in/isaacballesteros)
+### [Isacc Ballesteros - Centum Research & Technology](https://www.linkedin.com/in/isaacballesteros)
 
-Isacc presentará el produto (LifeSeeker)[http://www.iqube.es/en/], un sistema
+Isaac presentará o produto [LifeSeeker](http://www.centum-rt.com), un sistema
 de apoio en situación de emerxencia, concretamente en misións de procura e
 rescate, onde e capaz de detectar, identificar e localizar teléfonos móbiles en
-zonas remotas e sen cobertura reducindo o tempo de  procura e maximizando a
+zonas remotas e sen cobertura reducindo o tempo de procura e maximizando a
 probabilidade de éxito da misión.
 
 A charla versará sobre os detalles do proxecto, os problemas técnicos resoltos
 e como a orientación baseada en modelos e validación continua permitiron obter
 os resultados desexados.
 
-Isacc, Technology Manager de Centum RT. CentumRT é unha empresa baseada no
-viveiro de empresas [CITEXVI de Vigo](http://www.citexvi.es/). Centum-RT é unha
-empresa de recente creación que esta baseada en prover servizos orientados a
-aeronáutica.  Centum-RT ten unha gamma de produtos de electrónica relacionados
-dende servizos aéreos, servizos de localización en caso de desastres, etc…
-Centum por outra parte foi recoñecida polo Ministerio de economía como unha
-empresa innovadora ata o 2018.
+Isaac, Technology Manager de Centum R&T, é Enxeñeiro de Teleco pola
+Universidade de Zaragoza e na súa traxectoria profesional traballou en empresas
+como Indra ou Airbus. Centum R&T é unha empresa baseada no edificio [CITEXVI de
+Vigo](http://www.citexvi.es/) de Vigo adicada ao deseño, desenvolvemento e
+comercialización de sistemas electrónicos aeronáuticos tanto para plataformas
+tripuladas coma non tripuladas, os famosos drons. Centum R&T ten unha gama de
+produtos orientados a traballar en misións de emerxencias ou seguridade como
+poden ser a localización de persoas desaparecidas ou a extinción de incendios,
+etc… Centum R&T por outra parte foi recoñecida recentemente polo Ministerio de
+Economía como unha empresa innovadora ata o 2018.
+
 
 Despois das charlas, iremos a algún bar próximo pra facer un pouco de
 networking.
