@@ -75,4 +75,6 @@ Despois das charlas, iremos a algún bar próximo pra facer un pouco de
 networking.
 
 Vémonos o día 13 de Xaneiro a partires das 19:30 na Escola de Artes e Oficios
-de Vigo.
+de Vigo. Para preparala sala na que vamos a facer a meetup, [e necesario facer
+un rexistro previo no evento de
+eventbrite.](https://www.eventbrite.es/e/entradas-meetup-1-enxine-e-centumrt-20317132089)
