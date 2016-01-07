@@ -17,8 +17,8 @@ O 2015 esta rematando e no 2016 teremos unha chea de eventos. [Ao xa anunciado
 Hackahton Sanjurjo
 Badía](https://twitter.com/vigolabs/status/679330899146776576), vamos a
 sumarlle unha reunión mensual sobre o mundo da electrónica e o mundo maker.
-Estas reunións van ser na [Casa de Artes e Oficios de
-Vigo](https://www.google.es/maps/place/Escola+Municipal+de+Artes+e+Oficios/@42.237302,-8.7201202,19z/data=!4m2!3m1!1s0x0000000000000000:0x5c679db099dd2018?hl=en),
+Estas reunións van ser na [Escola Municipal de Artes e Oficios de
+Vigo](https://www.google.es/maps/place/Escola+Municipal+de+Artes+e+Oficios/@42.2376365,-8.721792,17z/data=!3m1!4b1!4m2!3m1!1s0xd2f6269934ff289:0x5c679db099dd2018),
 empezaranse as 19:30 e terán unha duración dunha hora.
 
 
@@ -78,7 +78,7 @@ Economía como unha empresa innovadora ata o 2018.
 Despois das charlas, iremos a algún bar próximo pra facer un pouco de
 networking.
 
-Vémonos o día 13 de Xaneiro a partires das 19:30 na Escola de Artes e Oficios
-de Vigo. Para preparala sala na que vamos a facer a meetup, [e necesario facer
-un rexistro previo no evento de
+Vémonos o día 13 de Xaneiro a partires das 19:30 na Escola Municipal de Artes e
+Oficios de Vigo. Para preparala sala na que vamos a facer a meetup, [e
+necesario facer un rexistro previo no evento de
 eventbrite.](https://www.eventbrite.es/e/entradas-meetup-1-enxine-e-centumrt-20317132089)
