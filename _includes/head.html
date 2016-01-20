@@ -19,6 +19,11 @@
       <meta name="twitter:image" content="{{ "/assets/img/blog/" | prepend: site.baseurl }}{{ page.img }}"/>
     {% endif %}
 
+    {% if page.redirect %}
+    <meta http-equiv="refresh" content="0; url={{page.redirect}}"/>
+    {% endif %}
+
+
     <!-- Bootstrap core CSS -->
     <link href="{{ "/assets/css/bootstrap.css" | prepend: site.baseurl }}" rel="stylesheet">
 
