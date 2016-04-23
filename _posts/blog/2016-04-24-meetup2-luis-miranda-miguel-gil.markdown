@@ -13,14 +13,17 @@ thumb: oceanographic.jpg
 ---
 
 
-Despois de rematar a [Hackahton Sanjurjo Badía](http://hacksb.vigolabs.gal/), e como anunciamos no noso
-primeiro post neste blogue seguimos cos eventos relacionados ca electrónica e
-co mar.
+Despois de rematar a [Hackahton Sanjurjo Badía](http://hacksb.vigolabs.gal/), e
+como anunciamos no noso primeiro post neste blogue seguimos cos eventos
+relacionados ca electrónica e co mar.
 
 A segunda meetup de Vigolabs **será o próximo 4 de Maio as 19:30** na
 biblioteca da [Escola de Artes e oficios de
 Vigo](https://www.google.es/maps/dir/''/emao+vigo/@42.2376152,-8.7896432,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0xd2f6269934ff289:0x5c679db099dd2018!2m2!1d-8.7196033!2d42.2376365).
 Nesta segunda meetup contaremos con dous poñentes que falarán 30 min cada un.
+
+**O rexistro é obligatorio** no seguinte
+[enlace](https://www.eventbrite.es/e/entradas-meetup-2-luis-miranda-e-miguel-gil-24888849218)
 
 <!--more-->
 
@@ -74,4 +77,3 @@ para facer un pouco de networking.
 
 Vémonos o próximo 4 de Maio a partir as 19:30 na [Biblioteca
 EMAO](https://twitter.com/bibliotecaemao).
-
