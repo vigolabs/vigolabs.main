@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Meetup #1 Luis Miranda e Miguel Gil"
+title: "Meetup #2 Luis Miranda e Miguel Gil"
 date: 2015-04-23 11:00:46
 description: Meetup #2 de Vigolabs
 author: Jesús Sayar & Eloy Coto
