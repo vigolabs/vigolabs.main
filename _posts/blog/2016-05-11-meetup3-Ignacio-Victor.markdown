@@ -13,14 +13,14 @@ thumb: buoy.jpg
 ---
 
 
-Despois de rematar a terceira meetup xa podemos unha nova edición. A terceira
+Despois de rematar a segunda meetup xa podemos unha nova edición. A terceira
 meetup de Vigolabs **será o próximo 1 de Xuño as 19:30** na biblioteca da
 [Escola de Artes e oficios de
 Vigo](https://www.google.es/maps/dir/''/emao+vigo/@42.2376152,-8.7896432,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0xd2f6269934ff289:0x5c679db099dd2018!2m2!1d-8.7196033!2d42.2376365).
 Nesta segunda meetup contaremos outra vez con dous excelentes poñentes.
 
 **O rexistro é obligatorio** no seguinte
-[enlace](https://www.eventbrite.es/e/entradas-meetup-2-luis-miranda-e-miguel-gil-24888849218)
+[enlace](https://www.eventbrite.es/e/entradas-meetup-3-rede-oceanografica-de-galicia-e-bluetooh-low-energy-25386611037)
 
 <!--more-->
 
