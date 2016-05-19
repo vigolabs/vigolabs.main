@@ -24,9 +24,9 @@ Nesta segunda meetup contaremos outra vez con dous excelentes poñentes.
 
 <!--more-->
 
-### [Ignacio Gonzalez Liaño](http://www.cetmar.org/#) - Descripción Rede ocenográfica de Galicia
+### [Ana Almécija](http://www.cetmar.org/#) - Descripción Rede ocenográfica de Galicia
 
-Ignacio falará sobre a [Rede Oceanográfica de
+Ana falará sobre a [Rede Oceanográfica de
 Galicia](http://www2.meteogalicia.es/galego/observacion/plataformas/plataformas.asp),
 concretamente sobre os dispositivos mecánicos, electrónicos e de sensorización
 necesarios para a toma de datos e a sua problemática do mantemento no mar. Esta
@@ -34,15 +34,14 @@ rede, pertencente a Xunta de Galicia (Consellerias de Medio Ambiente e do
 Mar),consta de 6 estacións que adquiren datos constantemente e envían a
 información a servidores na nube.
 
-Ignacio González. Enxeñeiro Industrial (automática e electrónica) pola
-Universidade Alfonso X de Madrid. Dende 2010 forma parte da Unidade de
-Tecnoloxías Mariñas[UTMAR](http://www.utm.csic.es/) do Centro Tecnolóxico do
-Mar [CETMAR](http://www.cetmar.org/) traballando en proxectos relacionados con
-vehículos autónomos submariños, coa monitorización do medio mariño e
-desenvolvendo solucións tecnolóxicas de aplicación no campo do control da
-calidade das augas.  Actualmente é o responsable técnico do CETMAR no proxecto
-LIFEDEMOWAVE (Demonstration of the efficiency & environmental impact of wave
-energy converters (WEC) in high energy coasts.)
+Ana Almécija, licenciada en ciencias químicas pola Universidade de Zaragoza.
+Dende 2009 forma parte da Unidade de Tecnoloxías Mariñas[UTMAR] do Centro
+Tecnolóxico do Mar [CETMAR] traballando en proxectos relacionados coa
+monitorización do medio mariño, os sistemas de calidade de datos do
+observatorio RAIA e desenvolvemento de solucións tecnolóxicas de aplicación no
+campo do control da calidade das augas.Actualmente é o responsable técnico do
+CETMAR no proxecto RAMICA (Sistema robotizado para análisis microbiólogos da
+calidade de aguas automatizados)
 
 ### [Víctor Álvarez](https://www.linkedin.com/in/victoras) - Introducción a Bluetooh Low Energy
 
